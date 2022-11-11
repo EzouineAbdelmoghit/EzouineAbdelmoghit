@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezouineabdelmoghit" alt="ezouineabdelmoghit" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, Java Script, React.js**
+- 🌱 I’m currently learning **CSS, JavaScript, React.js**
 
 - 📫 How to reach me **ezouineabdelmoghit@gmail.com**
 
